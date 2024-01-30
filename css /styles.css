@@ -3,4 +3,104 @@ body {
   color: #2e2f42;
   font-size: 16px;
   line-height: 1.5;
+  background-color: #fff;
+}
+
+.logo-web {
+  color: #4d5ae5;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: "Raleway", serif;
+  text-decoration: none;
+}
+
+.logo-studio {
+  color: #f4f4fd;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: "Raleway", serif;
+  text-decoration: none;
+}
+
+.logo-studio-header {
+  color: #2e2f42;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: "Raleway", serif;
+  text-decoration: none;
+}
+
+.main-title {
+  background-color: #2e2f42;
+}
+.home-title {
+  color: #fff;
+  font-weight: 700;
+  text-align: center;
+  font-weight: 700;
+}
+
+.button {
+  background-color: #4d5ae5;
+  color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #404bbf;
+}
+
+.button-link {
+  color: #2e2f42;
+  text-decoration: none;
+}
+
+.button-link:active {
+  color: #404bbf;
+  text-decoration: underline;
+}
+
+.button-links {
+  color: #2e2f42;
+  text-decoration: none;
+}
+
+.button-links:hover {
+  color: #404bbf;
+}
+
+.button-links:active {
+  color: #404bbf;
+}
+
+.team-bg {
+  background-color: #f4f4fd;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+.container title {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.footer {
+  color: #f4f4fd;
+}
+
+.footer-bg {
+  background-color: #2e2f42;
 }
