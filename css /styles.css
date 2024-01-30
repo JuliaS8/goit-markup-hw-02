@@ -6,6 +6,7 @@ body {
   background-color: #fff;
 }
 
+/* #region logo */
 .logo-web {
   color: #4d5ae5;
   font-size: 18px;
@@ -32,6 +33,7 @@ body {
   font-family: "Raleway", serif;
   text-decoration: none;
 }
+/* #endregion */
 
 .main-title {
   background-color: #2e2f42;
@@ -92,7 +94,7 @@ ol {
   list-style-type: none;
 }
 
-.container title {
+.container-title {
   font-size: 36px;
   font-weight: 700;
 }
