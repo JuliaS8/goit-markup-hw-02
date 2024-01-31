@@ -6,6 +6,15 @@ body {
   background-color: #fff;
 }
 
+h3 {
+  font-size: 20px;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
 /* #region logo */
 .logo-web {
   color: #4d5ae5;
@@ -53,6 +62,7 @@ body {
   letter-spacing: 0.02em;
 }
 
+/* #region button */
 .button {
   background-color: #4d5ae5;
   color: #fff;
@@ -73,7 +83,9 @@ body {
 .button:focus {
   background-color: #404bbf;
 }
+/* #endregion */
 
+/* #region button-links */
 .button-link {
   color: #2e2f42;
   text-decoration: none;
@@ -115,6 +127,9 @@ body {
   color: #404bbf;
 }
 
+/* #endregion */
+
+/* #region adress */
 .button-adress {
   font-size: 16px;
   line-height: 1.5;
@@ -134,18 +149,7 @@ body {
   color: #404bbf;
 }
 
-.team-bg {
-  background-color: #f4f4fd;
-}
-
-h3 {
-  font-size: 20px;
-}
-
-ul,
-ol {
-  list-style-type: none;
-}
+/* #endregion */
 
 .feautures-title {
   font-weight: 500;
@@ -168,6 +172,11 @@ ol {
   color: #2e2f42;
 }
 
+/* #region section3 */
+.team-bg {
+  background-color: #f4f4fd;
+}
+
 .team-members {
   background-color: #ffffff;
 }
@@ -183,6 +192,7 @@ ol {
   font-size: 16px;
   letter-spacing: 0.02em;
 }
+/* #endregion */
 
 .developed-apps {
   font-weight: 500;
@@ -196,6 +206,7 @@ ol {
   letter-spacing: 0.02em;
 }
 
+/* #region footer */
 .footer {
   color: #f4f4fd;
   letter-spacing: 0.02em;
@@ -204,5 +215,4 @@ ol {
 .footer-bg {
   background-color: #2e2f42;
 }
-
-/* #region test */
+/* #endregion */
