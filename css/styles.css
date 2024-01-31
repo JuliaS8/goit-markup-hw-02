@@ -70,7 +70,7 @@ body {
   background-color: #404bbf;
 }
 
-.button: :focus {
+.button:focus {
   background-color: #404bbf;
 }
 
@@ -130,7 +130,7 @@ body {
   color: #404bbf;
 }
 
-.button-adress: :focus {
+.button-adress:focus {
   color: #404bbf;
 }
 
